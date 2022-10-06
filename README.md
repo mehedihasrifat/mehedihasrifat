@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mehedi Hasan Rifat from Bangladesh, a young computer programmer.
+- 👋 Hi, I’m Mehedi Hasan Rifat from Bangladesh, a young computer programmer and a ethical hacker
 - 👀 I’m interested in Cybersecurity and Computer Science
 - 🌱 I’m currently learning to code in C
 - 💞️ I’m looking to collaborate on nothing right now.
