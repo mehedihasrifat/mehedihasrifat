@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mehedi Hasan Rifat from Bangladesh, a young computer programmer.
-- 👀 I’m interested in Cybersecurity and Computer Science.
+- 👋 Hi, I’m Mehedi Hasan Rifat from Bangladesh, a young computer programmer and a problem solver
+- 👀 I’m interested in Problem solving, App development, Web Development and Cybersecurity.
 - 🌱 I’m currently learning to code in C and HTML at the same time.
 - 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me ... social-media -> @mehedihasrifat
