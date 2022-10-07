@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehedi Hasan Rifat from Bangladesh, a teenage Computer Programmer and a Problem Solver.
 - 👀 I’m interested in Problem solving, App development, Web Development and Cybersecurity.
-- 🌱 I’m currently learning to code in C and HTML at the same time.
+- 🌱 I’m currently learning how to code in C and HTML at the same time.
 - 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me ... social-media -> @mehedihasrifat
 
