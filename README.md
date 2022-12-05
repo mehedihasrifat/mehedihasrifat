@@ -10,9 +10,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasrifat&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasrifat" /> </p>
 
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
