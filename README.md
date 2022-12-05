@@ -5,6 +5,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;A+Self-taught+Computer+Programmer,;An+8th+Grader+@+BCPSC,;A+Chess+Player,;A+Tech+Enthusiast,;A+Competitive+Programmer,;An+Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasrifat&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasrifat" /> </p>
 
 <br>
 
