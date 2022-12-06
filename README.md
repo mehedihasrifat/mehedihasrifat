@@ -19,7 +19,7 @@
 
 - A passionate Self-taught Competitive Programmer
 - Love to play Chess
-- Currently learning C & C++ by myself
+- Currently learning C & HTML by myself
 - Let's connect on LinkedIn [Click here](https://www.linkedin.com/in/mehedi-hasan-rifat-a44875248/)
 - Interested in learning Ethical Hacking & Web Development in the near future
 
