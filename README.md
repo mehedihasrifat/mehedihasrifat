@@ -138,5 +138,5 @@
 <br>
 
 ___Made with ❤️!___  
-  
-©️ [0xAbdulKhalid](https://www.github.com/0xAbdulKhalid/)
+
+<br>
