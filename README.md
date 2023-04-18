@@ -20,7 +20,7 @@
 - A passionate Self-taught Competitive Programmer
 - Love to play Chess
 - Currently learning C & HTML by myself
-- Let's connect on LinkedIn [Click here](https://www.linkedin.com/in/mehedi-hasan-rifat-a44875248/)
+- Let's connect on LinkedIn [Click here](https://www.linkedin.com/in/mehedihasrifat/)
 - Interested in Competitive Programming & Machine Learning & AI and related technologies
 
 <br><br>
